@@ -1,5 +1,13 @@
-//This program is a basic bruteforce tester/Complexity analysis thingy.
-//RUNTIME IS NOT THE BEST and no gpu support in this version
+/*
+This program is a basic bruteforce tester/Complexity analysis thingy.
+RUNTIME IS NOT THE BEST and no gpu support in this version might not even ¿work?
+
+Este programa es un probador básico de fuerza bruta / herramienta de análisis de complejidad.
+EL TIEMPO DE EJECUCIÓN NO ES EL MEJOR y no hay soporte para GPU en esta versión; puede que ni siquiera funcione.
+
+*/
+
+
 
 use std::time::Instant;
 
